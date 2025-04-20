@@ -1,4 +1,4 @@
-# Medical-Image-Interpretation-Interface# DICOM Viewer Application
+# Medical-Image-Interpretation-Interface
 
 ## Overview
 
